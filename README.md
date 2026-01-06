@@ -23,6 +23,14 @@ The raw data needed some work, there were duplicates and missing values scattere
 ### Exploratory Analysis (`02_exploratory_analysis.sql`)
 Once the data was clean, I looked at which countries saw the biggest changes over the 15year period, how GDP relates to life expectancy, and the differences between developed and developing nations. I also calculated rolling totals of adult mortality to spot trends.
 
+Business Questions
+
+Which countries have seen the largest increases in life expectancy over 15 years?
+How does GDP correlate with life expectancy?
+What is the life expectancy gap between Developed and Developing countries?
+Is there a GDP threshold where life expectancy significantly improves?
+How has adult mortality changed over time by country?
+
 ## What I Found
 * There's a clear GDP threshold around £1,500 where life expectancy jumps noticeably
 * The gap between developed and developing countries is still substantial
